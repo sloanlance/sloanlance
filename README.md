@@ -1,5 +1,7 @@
 ### Hello! 👋
 
+* 💡 I have an idea for a **_metric time_** clock app.  I'm trying to find spare time to work on it.
+
 <!--
 **sloanlance/sloanlance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
