@@ -13,7 +13,7 @@ know whether it follows strict portmanteau rules, but it feels like one to me.
 
 I've been programming computers for many years.  I started learning when I was a
 child, using my dad's Commodore VIC-20.  (I think I will probably write a post
-about *_that_* at some time.)  After formal education about programming in
+about **_that_** at some time.)  After formal education about programming in
 public school and college, combined with over three decades of professional
 experience, I sometimes feel like I've forgotten some useful things and learning
 new things sometimes takes a little longer than it used to.  Old dogs, new
